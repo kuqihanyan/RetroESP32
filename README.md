@@ -19,7 +19,7 @@
 
 | Top Layout | Bottom Layout |
 | ------------------ | ---------------- |
-| ![Gaboze Express](Assets/DxfLayoutTop.png) | ![Gaboze Express](Assets/DxfLayoutfBottom.png) |
+| ![Gaboze Express](Assets/DxfLayoutTop.png) | ![Gaboze Express](Assets/DxfLayoutBottom.png) |
 
 ### Placement (Unofficial)
 
@@ -31,7 +31,7 @@
 
 | Top Layout | Bottom Layout |
 | ------------------ | ---------------- |
-| ![Gaboze Express](Assets/DxfPlacementTop.png) | ![Gaboze Express](Assets/DxfPlacementfBottom.png) |
+| ![Gaboze Express](Assets/DxfPlacementTop.png) | ![Gaboze Express](Assets/DxfPlacementBottom.png) |
 
 
 
