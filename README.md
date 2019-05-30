@@ -5,21 +5,33 @@
 
 ### Measurements
 
-| Front Measurements | Back Measurement |
+| Top Measurements | Bottom Measurement |
 | ------------------ | ---------------- |
-| ![Gaboze Express](Assets/MeasurementsFront.png) | ![Gaboze Express](Assets/MeasurementsBack.png) |
+| ![Gaboze Express](Assets/MeasurementsTop.png) | ![Gaboze Express](Assets/MeasurementsBottom.png) |
 
 ### Layout
 
-| Front Layout | Back Layout |
+| Top Layout | Bottom Layout |
 | ------------------ | ---------------- |
-| ![Gaboze Express](Assets/LayoutFront.png) | ![Gaboze Express](Assets/LayoutBack.png) |
+| ![Gaboze Express](Assets/LayoutTop.png) | ![Gaboze Express](Assets/LayoutBottom.png) |
 
-### DXF
+#### DXF
 
-| Front Layout | Back Layout |
+| Top Layout | Bottom Layout |
 | ------------------ | ---------------- |
-| ![Gaboze Express](Assets/DxfFront.png) | ![Gaboze Express](Assets/DxfBack.png) |
+| ![Gaboze Express](Assets/DxfLayoutTop.png) | ![Gaboze Express](Assets/DxLayoutfBottom.png) |
+
+### Placement (Unofficial)
+
+| Top Layout | Bottom Layout |
+| ------------------ | ---------------- |
+| ![Gaboze Express](Assets/PlacementTop.png) | ![Gaboze Express](Assets/PlacementBottom.png) |
+
+#### DXF
+
+| Top Layout | Bottom Layout |
+| ------------------ | ---------------- |
+| ![Gaboze Express](Assets/DxfPlacementTop.png) | ![Gaboze Express](Assets/DxPlacementfBottom.png) |
 
 
 
