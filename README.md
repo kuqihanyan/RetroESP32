@@ -1,6 +1,16 @@
 # ![Gaboze Express](Assets/GabozeExpress.png)
 > Hardware Branch
 
+## Go Vote!!!
+> Have your say!
+
+We are moving into production soon and want to see what color you choose!
+**[Vote Here](https://forms.gle/fLzieRAKF758Bge16)**
+
+| White | Black |
+| ------------------ | ---------------- |
+| ![White Top](Assets/white-top.png) | ![Black Top](Assets/black-top.png) |
+| ![White Bottom](Assets/white-bottom.png) | ![Black Bottom](Assets/black-bottom.png) |
 
 ## UPDATE!!!
 
