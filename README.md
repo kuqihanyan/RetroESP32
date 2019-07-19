@@ -20,11 +20,5 @@ Here is a teaser of what we are testing
 | ------------------ | ---------------- |
 | ![Retro ESP32 Top](Assets/MeasurementsTop.png) | ![Retro ESP32 Bottom](Assets/MeasurementsBottom.png) |
 
-### Layout
-
-| Top Layout | Bottom Layout |
-| ------------------ | ---------------- |
-| ![Gaboze Express](Assets/LayoutTop.png) | ![Gaboze Express](Assets/LayoutBottom.png) |
-
 
 
