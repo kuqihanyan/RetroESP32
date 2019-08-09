@@ -16,6 +16,21 @@ Retro ESP32 Team
 # ![Retro ESP32](Assets/logo.jpg)
 > An ESP32 Wrover based Game Boy Pocket ** Hardware Branch **
 
+## Gerbers
+> You can use the Gerber Files to check your production
+
+*note:* PCB thickness must be 1mm
+
+## BOM
+> Full Bom Available
+
+*note:* LCD and Thumbwheels have AliExpress Links
+
+### Eagle Library
+> We use a Managed Library
+
+[RetroESP32](urn:adsk.eagle:library:12566846)
+
 ### Hardware
 > FTDI Solution
 
@@ -29,11 +44,6 @@ Here is a teaser of what we are testing
 | ------------------ | ---------------- |
 | ![Retro ESP32 Top](Assets/black-top.png) | ![Retro ESP32 Bottom](Assets/black-bottom.png) |
 
-### Measurements
-
-| Top Measurements | Bottom Measurement |
-| ------------------ | ---------------- |
-| ![Retro ESP32 Top](Assets/MeasurementsTop.png) | ![Retro ESP32 Bottom](Assets/MeasurementsBottom.png) |
 
 
 
