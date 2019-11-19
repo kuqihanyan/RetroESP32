@@ -21,6 +21,19 @@ Retro ESP32 Team
 # ![Retro ESP32](Assets/logo.jpg)
 > An ESP32 Wrover based Game Boy Pocket ** Hardware Branch **
 
+## Hardware
+> FTDI Solution
+
+Thanks to a recent contribution, we will be testing out the replacement of the CP2104 USB to UART bridge IC with an FTDI FT232RL IC
+
+The FTDI IC is more hand solder friendly than the CP210x QFN series
+
+Here is a teaser of what we are testing
+
+| Top Layout | Bottom Layout |
+| ------------------ | ---------------- |
+| ![Retro ESP32 Top](Assets/black-top.png) | ![Retro ESP32 Bottom](Assets/black-bottom.png) |
+
 ## Gerbers
 > You can use the Gerber Files to check your production
 
@@ -35,19 +48,6 @@ Retro ESP32 Team
 > We use a Managed Library
 
 [RetroESP32](urn:adsk.eagle:library:12566846)
-
-### Hardware
-> FTDI Solution
-
-Thanks to a recent contribution, we will be testing out the replacement of the CP2104 USB to UART bridge IC with an FTDI FT232RL IC
-
-The FTDI IC is more hand solder friendly than the CP210x QFN series
-
-Here is a teaser of what we are testing
-
-| Top Layout | Bottom Layout |
-| ------------------ | ---------------- |
-| ![Retro ESP32 Top](Assets/black-top.png) | ![Retro ESP32 Bottom](Assets/black-bottom.png) |
 
 
 
