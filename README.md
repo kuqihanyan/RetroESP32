@@ -40,4 +40,5 @@ Here is a teaser of what we are testing
 > We Like Coffee!
 
 * [32teeth](https://github.com/32teeth) is the core maintainer and updater of this project
-[![Suport](Assets/support.jpg)](https://github.com/sponsors/32teeth)
+<br/>
+[![Suport](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/32teeth)
