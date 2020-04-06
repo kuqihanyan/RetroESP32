@@ -1,10 +1,3 @@
-> ### Although we do this for 💕 of 🕹️
-> **We Also Like Coffee!**
-> *Please Consider Supporting*
-> [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
-
------
-
 # ![Retro ESP32](Assets/logo.jpg)
 > An ESP32 Wrover based Game Boy Pocket ** Hardware Branch **
 
@@ -40,8 +33,11 @@ Here is a teaser of what we are testing
 
 [RetroESP32](urn:adsk.eagle:library:12566846)
 
+-----
 
-### Support
-> We Like Coffee!
+> ## Although we do this for 💕 of 🕹️
+> **We Also Like Coffee!**
+> *Please Consider Supporting*<br>
+> [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
 
-[![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/32teeth)
+-----
